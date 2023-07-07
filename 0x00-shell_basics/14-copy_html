@@ -1,2 +1,2 @@
-#!/bin/bash
-cp *.htm ../
+i#!/bin/bash
+cp -u *.htm ..
